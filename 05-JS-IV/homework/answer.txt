@@ -1,0 +1,32 @@
+1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
+
+	* Objetos: Es un conjunto de propiedades o características que tiene un elemento. 
+	* Propiedades: Son aquellas características que hacen que un objeto exista, por ejemplo:
+    Si tenemos un balón de futbol, sabemos que este es redondo, tienen un color y un tamaño. 
+	* Métodos: Son aquellas acciones, comportamientos o capacidades que tiene un objeto, por ejemplo:
+    Un balón de futbol pude rebotar, por tanto, este es su comportamiento o método.
+	* Bucle `for…in`: Es una estructura de control que nos permite recorrer todos los elementos de un objeto.
+	* Notación de puntos vs notación de corchetes: 
+    * Notación de corchetes: Es una forma de acceder a los elementos de un array a través de un índice, por ejemplo:
+    var array = [1, 2, 3, 4, 5];
+    array[0] = 1;
+    array[1] = 2;
+    array[2] = 3;
+    array[3] = 4;
+    array[4] = 5;
+    * Notación de puntos: Es una forma de acceder a los elementos de un objeto a través de una propiedad, por ejemplo: 
+    var objeto = {
+        propiedad1: 1,
+        propiedad2: 2,
+        propiedad3: 3,
+        propiedad4: 4,
+        propiedad5: 5
+    };
+    objeto.propiedad1 = 1;
+    objeto.propiedad2 = 2;
+    objeto.propiedad3 = 3;
+    objeto.propiedad4 = 4;
+    objeto.propiedad5 = 5;
+
+
+    
