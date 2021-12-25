@@ -1,0 +1,7 @@
+Ciclo for: se repite un conjunto de instrucciones n veces hasta que ciertas coniciones dadas dentro del for sean cumplidas.
+
+ ********************************
+
+Operador !: se utiliza para negar una condicion.
+Operador &&: se utiliza para evaluar una condicion y otra. Tienen que cumplidas las dos para que se cumpla la condicion.
+Operador ||: se utiliza para evaluar una condicion u otra. Tiene que cumplirse al menos una para que se cumpla la condicion.
